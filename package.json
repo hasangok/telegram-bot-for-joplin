@@ -14,7 +14,7 @@
   "author": "Hasan Gök",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.8.2",
+    "axios": "^1.15.0",
     "telegraf": "^3.38.0"
   }
 }
